@@ -1,0 +1,6 @@
+<?php
+
+$blackList = [
+    'Microsoft',
+    'Lenovo'
+];
